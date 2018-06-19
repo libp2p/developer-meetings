@@ -2,7 +2,7 @@
 
 Name: 
 
-Length (choose one):  [10 minute lightning | 30 minute]
+Length (choose one):  [3-10 minute lightning | 30 minute presentation]
 
 Title (~1-7 words): 
 
