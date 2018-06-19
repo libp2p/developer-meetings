@@ -1,12 +1,12 @@
 ## Presentation Submission Template
 
-Your Name: 
+Name: 
 
-Length (choose one):  [10 minute lightning | 30 minute | 60 minute]
+Length (choose one):  [10 minute lightning | 30 minute]
 
-Title (~5 words): 
+Title (~5-7 words): 
 
-Abstract (50-300 words, depending on complexity of talk): 
+Abstract (1 sentence up to a couple paragraphs, as you prefer): 
 
 
 
