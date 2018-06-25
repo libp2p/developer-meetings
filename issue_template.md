@@ -1,6 +1,6 @@
 ## Presentation Submission Template
 
-Name: 
+Your Name: 
 
 Session Type (choose one):  
 1. lightning (3-10 min)
