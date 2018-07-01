@@ -3,7 +3,7 @@
 The libp2p Developers Meeting will bring together a small group of core developers and major users of [libp2p](https://libp2p.io).  This is a working meeting for people closely involved in libp2p.
 
 - **Dates**: 12-13 July 
-- **Location**: Hungary House, Berlin
+- **Location**: [Haus Ungarn, Karl-Liebknecht-Str. 9, 10178, Berlin](https://goo.gl/maps/B8B79HY5LmA2)
 - **Size**:  ~25 attendees
 - Invitations:  _Invites to this event were determined by an application process.  Acceptances were sent June 7, 2018.  Please contact mike@libp2p.io if you applied and not receive a reply._
 
