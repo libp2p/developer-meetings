@@ -6,6 +6,7 @@ The libp2p Developers Meeting will bring together a small group of core develope
 - **Location**: [Haus Ungarn, Karl-Liebknecht-Str. 9, 10178, Berlin](https://goo.gl/maps/B8B79HY5LmA2)
 - **Size**:  ~25 attendees
 - Invitations:  _Invites to this event were determined by an application process.  Acceptances were sent June 7, 2018.  Please contact mike@libp2p.io if you applied and not receive a reply._
+- [**SCHEDULE**](https://developersmeetingsberlin2018.sched.com/)
 
 # Participating in the Event
 
