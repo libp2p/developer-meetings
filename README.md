@@ -1,4 +1,4 @@
-# 2018 libp2p Developers Meeting, Berlin
+![](https://ipfs.io/ipfs/Qmc3WaYN4xiDuF4h846nteRV3buQLbm6PVHdKnZQBRqmGh)
 
 The libp2p Developers Meeting will bring together a small group of core developers and major users of [libp2p](https://libp2p.io).  This is a working meeting for people closely involved in libp2p.
 
