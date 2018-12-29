@@ -53,6 +53,6 @@ This is a working meeting for developers and users of libp2p.  If you work on li
 
 This is a completely separate event from the IPFS Developers Meeting, with its own admission criteria.  If you are an active contributor to libp2p (or a downstream user of libp2p), you are absolutely welcome to attend.
 
-If you're looking for a general-interest event, you should check out **IPFSConf** Lisbon November 2018 - [pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
+If you're looking for a general-interest event, you should check out **IPFS Conf**, which will be in Lisbon in 2019 - [pre-register for IPFS Conf in 2019](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
 
 Note that by now you should have received an acceptance or rejection email to your application.
